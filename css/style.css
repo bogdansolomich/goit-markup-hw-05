@@ -642,7 +642,6 @@ img {
   display: block;
   margin-bottom: 4px;
   font-size: 12px;
-  line-height: 14px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--customers-block);
@@ -690,6 +689,7 @@ img {
 }
 
 .textarea-style {
+  display: block;
   width: 100%;
   height: 120px;
   font-size: 12px;
@@ -792,7 +792,6 @@ img {
   color: var(--hero-color);
   line-height: 1.5;
   letter-spacing: 0.02em;
-  max-width: 264px;
 }
 
 .form-letter {
